@@ -50,7 +50,10 @@ public class Driverfactory {
         }
         return driver;
     }
-    //From feature1
+<<<<<<< HEAD
     //Frome feature2
+=======
+    //From feature1
+>>>>>>> feature1
 }
 
